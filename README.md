@@ -3,7 +3,7 @@
 
 Fontosabb fájlok:
 -------------
-*main függvény*
+*main*
 > Szakdolgozat_CANopen/CANopenNode/example/main.c
 
 *objektum könyvtár*
